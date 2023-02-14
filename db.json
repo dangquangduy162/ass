@@ -1,0 +1,52 @@
+{
+  "sanPham": [
+    {
+      "id": "fdf2",
+      "ten": "Dior sauvage",
+      "gia": 100,
+      "anh": "/assets/sp1.jpg"
+    },
+    {
+      "id": "gfd3",
+      "ten": "Chanel coco",
+      "gia": 60,
+      "anh": "/assets/sp2.png"
+    },
+    {
+      "id": "dfds43",
+      "ten": "Lancome Idôle",
+      "gia": 150,
+      "anh": "/assets/sp3.jpg"
+    },
+    {
+      "id": "aaswq56",
+      "ten": "D&G Limpératrice",
+      "gia": 50,
+      "anh": "/assets/sp4.webp"
+    },
+    {
+      "id": "freew23",
+      "ten": "Gucci Bamboo",
+      "gia": 30,
+      "anh": "/assets/sp5.jpg"
+    },
+    {
+      "id": "fdsggg321",
+      "ten": "Guerlain Mon",
+      "gia": 70,
+      "anh": "/assets/sp6.jpg"
+    },
+    {
+      "id": "fdgdg3221",
+      "ten": " CK Eternity ",
+      "gia": 32,
+      "anh": "/assets/sp7.jpg"
+    },
+    {
+      "id": "hgfhgf332154",
+      "ten": "YSL Intense",
+      "gia": 78,
+      "anh": "/assets/sp8.webp"
+    }
+  ]
+}
